@@ -1,0 +1,28 @@
+{
+  "name": "vue-tauri-draggable",
+  "version": "0.1.0",
+  "description": "A Vue 3 plugin to provide a directive to conveniently mark Tauri draggable elements",
+  "author": "Clazex <clazex.y@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "devDependencies": {
+    "vue": "^3.2.45"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clazex/vue-tauri-draggable.git"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "vue.js",
+    "vue-plugin",
+    "vue3",
+    "vue-directive",
+    "tauri"
+  ],
+  "bugs": {
+    "url": "https://github.com/Clazex/vue-tauri-draggable/issues"
+  },
+  "homepage": "https://github.com/Clazex/vue-tauri-draggable#readme"
+}
